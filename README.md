@@ -1,4 +1,4 @@
 graphics
 ========
 
-wallpapers and logos
+wallpapers and logos for Aerofoil
