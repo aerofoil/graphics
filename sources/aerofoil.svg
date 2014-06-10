@@ -14,7 +14,7 @@
    height="1567.0587"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="aerofoil.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0">
@@ -62,15 +62,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16"
-     inkscape:cx="-1353.8431"
-     inkscape:cy="-552.55045"
+     inkscape:zoom="128"
+     inkscape:cx="642.16297"
+     inkscape:cy="2.8555441"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     inkscape:window-width="679"
-     inkscape:window-height="729"
-     inkscape:window-x="683"
-     inkscape:window-y="37"
+     inkscape:current-layer="g3914"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      width="1000px"
      height="450px"
      showgrid="false"
@@ -119,38 +119,41 @@
        id="g3914"
        transform="translate(0,-0.00734809)">
       <g
-         id="g3903">
+         id="g3986">
         <g
-           id="g3893">
+           id="g3903">
           <g
-             id="g3884">
+             id="g3893">
             <g
-               id="g3876">
+               id="g3884">
               <g
-                 id="g3869">
+                 id="g3876">
                 <g
-                   id="g3863">
-                  <path
-                     inkscape:transform-center-y="-46.126605"
-                     inkscape:export-ydpi="960.12543"
-                     inkscape:export-xdpi="960.12543"
-                     inkscape:transform-center-x="334.87747"
-                     sodipodi:nodetypes="ccccscc"
-                     inkscape:connector-curvature="0"
-                     d="m 1868.6063,1026.1134 c 15.6718,3.4873 47.4819,8.169 47.4819,8.169 l -0.8785,5.8649 c -204.2794,-1.4415 -408.5139,-0.738 -612.7896,0.026 -12.8782,-0.4399 -28.698,-11.3557 -24.6022,-24.4544 22.5267,-72.04755 166.7489,-74.73668 176.5206,-74.25017 145.9712,-4.34335 285.5775,55.29925 414.2678,84.64407 z"
-                     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07053471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                     id="path3972" />
+                   id="g3869">
                   <g
-                     id="g3857">
+                     id="g3863">
+                    <path
+                       id="path3972"
+                       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07053471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                       d="m 1868.6063,1026.1134 c 15.6718,3.4873 47.4819,8.169 47.4819,8.169 l -0.8785,5.8649 c -204.2794,-1.4415 -408.5139,-0.738 -612.7896,0.026 -12.8782,-0.4399 -28.698,-11.3557 -24.6022,-24.4544 22.5267,-72.04755 166.7489,-74.73668 176.5206,-74.25017 145.9712,-4.34335 285.5775,55.29925 414.2678,84.64407 z"
+                       inkscape:connector-curvature="0"
+                       sodipodi:nodetypes="ccccscc"
+                       inkscape:transform-center-x="334.87747"
+                       inkscape:export-xdpi="960.12543"
+                       inkscape:export-ydpi="960.12543"
+                       inkscape:transform-center-y="-46.126605" />
                     <g
-                       id="g3860">
-                      <rect
-                         y="1036.3888"
-                         x="1303.8036"
-                         height="3.6398129"
-                         width="611.42395"
-                         id="rect3079"
-                         style="fill:url(#linearGradient3955);fill-opacity:1;stroke:#000000;stroke-width:1.37463403;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+                       id="g3857">
+                      <g
+                         id="g3860">
+                        <rect
+                           style="fill:url(#linearGradient3955);fill-opacity:1;stroke:#000000;stroke-width:1.37463403;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                           id="rect3079"
+                           width="611.42395"
+                           height="3.6398129"
+                           x="1303.8036"
+                           y="1036.3888" />
+                      </g>
                     </g>
                   </g>
                 </g>
@@ -158,6 +161,13 @@
             </g>
           </g>
         </g>
+        <rect
+           y="1033.8359"
+           x="1915.7096"
+           height="6.8800001"
+           width="0.98602986"
+           id="rect3982"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
       </g>
     </g>
   </g>
