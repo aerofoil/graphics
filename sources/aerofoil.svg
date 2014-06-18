@@ -7,110 +7,16 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="768.07208"
-   height="228.00743"
-   id="svg2"
-   sodipodi:version="0.32"
+   id="svg3159"
+   version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="aerofoil.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   version="1.0"
-   inkscape:export-filename="/home/ke7ofi/aerofoil/graphics/sources/aerofoil.png"
-   inkscape:export-xdpi="1799.8229"
-   inkscape:export-ydpi="1799.8229">
-  <defs
-     id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3081">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3083" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3085" />
-    </linearGradient>
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect3144"
-       is_visible="true" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3081"
-       id="linearGradient3087"
-       x1="1309.0454"
-       y1="1028.5992"
-       x2="1307.4829"
-       y2="1063.7555"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3081"
-       id="linearGradient3955"
-       gradientUnits="userSpaceOnUse"
-       x1="1309.0454"
-       y1="1028.5992"
-       x2="1307.4829"
-       y2="1063.7555" />
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="280.26005"
-     inkscape:cy="46.629488"
-     inkscape:document-units="px"
-     inkscape:current-layer="g3914"
-     inkscape:window-width="681"
-<<<<<<< HEAD
-     inkscape:window-height="373"
-     inkscape:window-x="683"
-     inkscape:window-y="19"
-=======
-     inkscape:window-height="372"
-     inkscape:window-x="683"
-     inkscape:window-y="394"
->>>>>>> 9575117dc8d6e98329d64e52b5bc61b974c38c7f
-     width="1000px"
-     height="450px"
-     showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:object-nodes="true"
-     inkscape:window-maximized="0"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:object-paths="true"
-     fit-margin-top="64"
-     fit-margin-left="64"
-     fit-margin-right="64"
-     fit-margin-bottom="64"
-     inkscape:showpageshadow="false"
-     inkscape:snap-global="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     borderlayer="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3089"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="63.999972px"
-       originy="64.000014px" />
-  </sodipodi:namedview>
+   width="12800"
+   height="2000"
+   sodipodi:docname="aerofoil.svg">
   <metadata
-     id="metadata7">
+     id="metadata3165">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -121,65 +27,31 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Calque 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-1212.6235,-876.70116)">
-    <g
-       id="g3914"
-       transform="translate(0,-0.00734809)">
-      <g
-         id="g3986">
-        <g
-           id="g3903">
-          <g
-             id="g3893">
-            <g
-               id="g3884">
-              <g
-                 id="g3876">
-                <g
-                   id="g3869">
-                  <g
-                     id="g3863">
-                    <path
-                       id="path3972"
-                       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07053471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                       d="m 1868.6063,1026.1134 c 15.6718,3.4873 47.4819,8.169 47.4819,8.169 l -0.8785,5.8649 c -204.2794,-1.4415 -408.5139,-0.738 -612.7896,0.026 -12.8782,-0.4399 -28.698,-11.3557 -24.6022,-24.4544 22.5267,-72.04755 166.7489,-74.73668 176.5206,-74.25017 145.9712,-4.34335 285.5775,55.29925 414.2678,84.64407 z"
-                       inkscape:connector-curvature="0"
-                       sodipodi:nodetypes="ccccscc"
-                       inkscape:transform-center-x="334.87747"
-                       inkscape:export-xdpi="960.12543"
-                       inkscape:export-ydpi="960.12543"
-                       inkscape:transform-center-y="-46.126605" />
-                    <g
-                       id="g3857">
-                      <g
-                         id="g3860">
-                        <rect
-                           style="fill:url(#linearGradient3955);fill-opacity:1;stroke:#000000;stroke-width:1.37463403;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                           id="rect3079"
-                           width="611.42395"
-                           height="3.6398129"
-                           x="1303.8036"
-                           y="1036.3888" />
-                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-        <rect
-           y="1033.8359"
-           x="1915.7096"
-           height="6.8800001"
-           width="0.98602986"
-           id="rect3982"
-           style="fill:#000000;fill-opacity:1;stroke:none" />
-      </g>
-    </g>
-  </g>
+  <defs
+     id="defs3163" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="729"
+     id="namedview3161"
+     showgrid="false"
+     inkscape:zoom="0.056568542"
+     inkscape:cx="5781.243"
+     inkscape:cy="2082.5928"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3159" />
+  <path
+     style="fill:#000000;fill-opacity:1"
+     d="m 505.49576,1999.3125 c -3.3,-0.1701 -13.2,-1.0099 -22,-1.8662 -133.9244,-13.032 -272.8904,-76.5544 -367.23644,-167.8665 C 40.332287,1756.0944 0.01796733,1670.9366 7.3342322e-6,1584 -0.00699267,1551.8684 4.9961773,1523.5715 17.498107,1485.027 71.528157,1318.4478 157.01597,1168.5941 279.12537,1026.414 326.51786,971.23178 392.31653,905.39958 449.91138,855.54088 595.92779,729.13758 765.57974,619.60508 971.49576,518.79018 1388.9822,314.39198 1931.5774,163.74168 2564.4957,76.49728 c 323.6739,-44.6166 690.0981,-72.5863 949.5,-72.4765 35.475,0.015 93.525,-0.7112 129,-1.6139 82.2156,-2.0921 320.0284,-2.4532 407.5,-0.6188 183.7691,3.8539 347.6932,10.7209 519,21.7418 808.7308,52.029 1671.6922,190.4379 2671.5,428.4772 495.0344,117.8602 1013.1841,256.1744 1747.5,466.4752 150.6553,43.1462 276.2328,79.3662 660,190.36232 820.8103,237.401 1227.5923,350.0985 1666.1193,461.5924 194.913,49.5558 455.995,112.1444 562.881,134.9378 136.781,29.1686 356.376,68.1836 625,111.0423 104.26,16.6345 292.524,45.5829 296.446,45.5829 0.728,0 1.054,21.3152 1.054,69 l 0,69 -6144.2503,-0.1891 c -3379.3375,-0.104 -6146.94994,-0.3283 -6150.24994,-0.4984 z"
+     id="path3169"
+     inkscape:connector-curvature="0" />
 </svg>
